@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentWeb.AdminWeb", "RentWeb.AdminWeb\RentWeb.AdminWeb.csproj", "{CD074141-1116-4ECF-9C01-101B9238C630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentWeb.FrontWeb", "RentWeb.FrontWeb\RentWeb.FrontWeb.csproj", "{BDD968B1-F89A-4F2E-B086-AF43B0EB7578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentWeb.Common", "RentWeb.Common\RentWeb.Common.csproj", "{9B5BCE1D-2518-4837-AD86-0D29C96D28C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentWeb.DTO", "RentWeb.DTO\RentWeb.DTO.csproj", "{453A37AB-83D1-4240-A5BE-84273587C310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentWeb.ISerivice", "RentWeb.ISerivice\RentWeb.ISerivice.csproj", "{858EA8CC-5000-4B55-ABCB-544F6C981AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentWeb.Service", "RentWeb.Service\RentWeb.Service.csproj", "{28F795A1-4B65-47B9-88AF-A3711B3602D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD074141-1116-4ECF-9C01-101B9238C630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD074141-1116-4ECF-9C01-101B9238C630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD074141-1116-4ECF-9C01-101B9238C630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD074141-1116-4ECF-9C01-101B9238C630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD968B1-F89A-4F2E-B086-AF43B0EB7578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD968B1-F89A-4F2E-B086-AF43B0EB7578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD968B1-F89A-4F2E-B086-AF43B0EB7578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD968B1-F89A-4F2E-B086-AF43B0EB7578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5BCE1D-2518-4837-AD86-0D29C96D28C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5BCE1D-2518-4837-AD86-0D29C96D28C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5BCE1D-2518-4837-AD86-0D29C96D28C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5BCE1D-2518-4837-AD86-0D29C96D28C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453A37AB-83D1-4240-A5BE-84273587C310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453A37AB-83D1-4240-A5BE-84273587C310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453A37AB-83D1-4240-A5BE-84273587C310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453A37AB-83D1-4240-A5BE-84273587C310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858EA8CC-5000-4B55-ABCB-544F6C981AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858EA8CC-5000-4B55-ABCB-544F6C981AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858EA8CC-5000-4B55-ABCB-544F6C981AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858EA8CC-5000-4B55-ABCB-544F6C981AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F795A1-4B65-47B9-88AF-A3711B3602D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F795A1-4B65-47B9-88AF-A3711B3602D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F795A1-4B65-47B9-88AF-A3711B3602D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F795A1-4B65-47B9-88AF-A3711B3602D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
